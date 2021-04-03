@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @george
+- 👀 I’m interested in frontend and backend
+- 🌱 I’m currently learning front and back :)
